@@ -1,0 +1,43 @@
+# EDA Report – Superstore Sales Dataset
+
+## Dataset Overview
+- Total Records: 9994
+- Total Columns: 21
+
+## Data Cleaning
+- No missing values found.
+- No duplicate rows found.
+- Converted Order Date and Ship Date to datetime format.
+- Data validation completed successfully.
+
+## KPIs
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Customers
+- Total Products
+- Total Quantity Sold
+- Average Sales
+- Average Profit
+
+## Visualizations
+- Sales by Category
+- Sales by Region
+- Profit by Category
+- Monthly Sales Trend
+- Top 10 Products by Sales
+
+## Key Business Insights
+1. Technology category generated the highest sales.
+2. Some orders resulted in negative profit (loss-making transactions).
+3. Sales showed fluctuations across different months.
+4. A few products contributed significantly to total sales.
+5. No missing or duplicate records were found.
+
+Statistical Analysis
+
+• Mean, Median and Mode calculated.
+• Standard Deviation measured for Sales and Profit.
+• Correlation analysis performed on Sales, Profit, Quantity and Discount.
+• Probability of profitable orders calculated.
+• Basic Linear Regression demonstrated using Discount to predict Profit.

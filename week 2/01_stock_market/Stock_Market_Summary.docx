@@ -1,0 +1,82 @@
+# Stock Market Fundamentals – FinTech Data Analyst Perspective
+
+## 1. Stock Market
+
+A stock market is a marketplace where shares of publicly listed companies are bought and sold. For a Data Analyst, stock-market data can be used to analyse prices, returns, volume, company performance and market trends.
+
+## 2. NSE & BSE
+
+**NSE (National Stock Exchange)** and **BSE (BSE Ltd.)** are India's major stock exchanges. NSE is associated with the **Nifty 50**, while BSE is associated with the **Sensex**.
+
+## 3. Nifty & Sensex
+
+**Nifty 50** tracks 50 major companies listed on NSE. **Sensex** tracks 30 major companies listed on BSE. Both are important indicators of overall Indian equity-market performance.
+
+## 4. IPO & SME IPO
+
+An **IPO (Initial Public Offering)** is when a private company offers its shares to the public for the first time. An **SME IPO** is an IPO specifically designed for eligible small and medium-sized enterprises.
+
+## 5. Market Capitalization
+
+Market capitalization represents the total market value of a company's outstanding shares.
+
+**Market Cap = Share Price × Outstanding Shares**
+
+Companies are commonly classified as large-cap, mid-cap or small-cap based on market capitalization.
+
+## 6. P/E Ratio
+
+The **Price-to-Earnings (P/E) ratio** compares a company's share price with its earnings per share.
+
+**P/E = Market Price per Share ÷ EPS**
+
+It helps analysts compare how highly the market values companies relative to their earnings.
+
+## 7. P/B Ratio
+
+The **Price-to-Book (P/B) ratio** compares market price with book value per share.
+
+**P/B = Market Price per Share ÷ Book Value per Share**
+
+It helps evaluate the market value of a company relative to its accounting net assets.
+
+## 8. EPS
+
+**Earnings Per Share (EPS)** represents the profit attributable to each outstanding share.
+
+**EPS = Net Profit attributable to shareholders ÷ Outstanding Shares**
+
+EPS is an important measure when analysing company profitability.
+
+## 9. Dividend
+
+A dividend is a portion of a company's profit distributed to shareholders. Analysts can study dividend history and dividend-related metrics to understand shareholder returns.
+
+## 10. Bonus & Stock Split
+
+A **bonus issue** gives existing shareholders additional shares without requiring payment, according to a specified ratio. A **stock split** divides existing shares into more shares, reducing the price per share proportionally while generally leaving the investor's total value unchanged immediately after the split.
+
+## 11. Trading Volume
+
+Trading volume represents the number of shares traded during a period. Analysts use volume to understand market activity and liquidity.
+
+## 12. Financial Statements
+
+The three major financial statements are:
+
+* **Balance Sheet:** Shows assets, liabilities and shareholders' equity at a specific date.
+* **Profit & Loss Statement:** Shows revenue, expenses and profit or loss over a period.
+* **Cash Flow Statement:** Shows cash generated and used through operating, investing and financing activities.
+
+## 13. Basic Financial Ratios
+
+Financial ratios help analysts evaluate business performance and financial health. Common ratios include:
+
+* **Current Ratio:** Current Assets ÷ Current Liabilities
+* **Debt-to-Equity:** Total Debt ÷ Shareholders' Equity
+* **Net Profit Margin:** Net Profit ÷ Revenue × 100
+* **ROE:** Net Profit ÷ Shareholders' Equity × 100
+
+## Conclusion
+
+Understanding stock-market concepts and financial statements enables Data Analysts in FinTech to correctly interpret financial datasets, identify business trends, calculate meaningful KPIs and communicate insights to business and product teams.
